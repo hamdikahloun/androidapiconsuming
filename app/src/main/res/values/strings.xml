@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Web Service</string>
+    <string name="infra_manager_security_devops_developer">INFRA | SECURITY | DevOps | Developer</string>
+    <string name="hamdi_kahloun">Hamdi Kahloun</string>
+    <string name="development_environment">Development Environment</string>
+    <string name="programming">Programming</string>
+    <string name="email">hamdikahlounacil@gmail.com</string>
+    <string name="aa">Aa</string>
+
+    <string name="get_all_questions">https://api.kahloun.online/api/questions/all</string>
+    <string name="get_answers_question">https://api.kahloun.online/api/answers/getanswersbyquestionanduser</string>
+    <string name="add_new_answer">https://api.kahloun.online/api/answers/new</string>
+    <string name="signin">https://api.kahloun.online/api/users/signin</string>
+    <string name="empty_answer">Empty Answer</string>
+    <string name="empty">Empty</string>
+    <string name="new_answer_added">New Answer Added</string>
+    <string name="error">Error Occurred</string>
+    <string name="password">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="user_info">USER_INFO</string>
+    <string name="demo_example_com">demo@example.com</string>
+    <string name="email_demo_example_com_password_0000">Email: demo@example.com / Password: 0000</string>
+</resources>
